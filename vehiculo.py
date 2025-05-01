@@ -77,3 +77,4 @@ if __name__ == "__main__":
     print(mi_vehiculo)  # Muestra la información del vehículo con __str__
     mi_vehiculo.acelerar(40)  # Aumenta la velocidad
     mi_vehiculo.frenar(20)    # Reduce la velocidad
+    #se agrega este comentario
